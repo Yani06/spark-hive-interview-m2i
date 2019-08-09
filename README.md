@@ -7,11 +7,9 @@ Copy offense_codes.csv _**src/main/resources**_ on **_/tmp_** in your sandbox
 
 **Build**
 
+_run command:_  **sbt package**
 
-cd  to-jar-path-on-target-scala
-
-_run command:_  sbt package
-
+cd _to-jar-path-on-target-scala_   and copy _.jar_ to your sandbox 
 
 **Run** 
 
