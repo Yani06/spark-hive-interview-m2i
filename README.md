@@ -1,9 +1,8 @@
-**pre-requisite** 
+**Pre-requisite** 
 
+Copy crime.csv from **_src/main/resources_** on _**/tmp**_ in your sandbox
 
-Copy crime.csv on /tmp in your sandbox
-
-Copy offense_codes.csv on /tmp in your sandbox
+Copy offense_codes.csv _**src/main/resources**_ on **_/tmp_** in your sandbox
 
 
 **Build**
@@ -11,7 +10,7 @@ Copy offense_codes.csv on /tmp in your sandbox
 
 cd  to-jar-path-on-target-scala
 
-run command: sbt package
+_run command:_  sbt package
 
 
 **Run** 
