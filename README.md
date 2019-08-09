@@ -20,4 +20,4 @@ run command: sbt package
 
 _default:_
 
-./run.sh  /tmp/tp-spark-idoughi_2.12-0.1.jar
+./run.sh  /tmp/spark-hive-interview-0.1.jar
